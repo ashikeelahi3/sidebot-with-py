@@ -1,0 +1,12 @@
+shiny
+pandas
+duckdb
+chatlas
+faicons
+shinywidgets
+plotly
+ridgeplot
+python-dotenv
+kaleido
+google-generativeai
+inspect-ai
