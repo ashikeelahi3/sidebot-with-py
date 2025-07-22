@@ -6,8 +6,8 @@ import pandas as pd
 import duckdb
 import os
 
-# Path to tips.csv (assume root of py-sidebot)
-TIPS_CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'tips.csv')
+# Path to tips.csv (assume current directory)
+TIPS_CSV_PATH = os.path.join(os.path.dirname(__file__), 'tips.csv')
 
 def load_tips():
     """Load tips.csv, add percent column, and register with duckdb."""

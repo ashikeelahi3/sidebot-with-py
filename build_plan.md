@@ -1,6 +1,6 @@
 # Project Build Plan: Python Sidebot
 
-Here is a 10-step plan to build this Python Sidebot application from the ground up using Gemini LLM. You can follow the parent project
+Here is a 10-step plan to build this Python Sidebot application from the ground up using Gemini LLM. You can follow the py-sidebot project
 
 ### Milestone 1: Project Scaffolding & Dependencies
 
